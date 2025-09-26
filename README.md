@@ -13,7 +13,4 @@ Este repositorio contiene las 3 aplicaciones desarrolladas durante la semana:
 - Kotlin
 - Jetpack Compose
 
-## 📂 Estructura del proyecto:
-- `Dice_roller.md` - Código de la aplicación de dados
-- `calculadora_propinas.md` - Código de calculadora
-- `lemonade_app.md` - Código del juego de limonada
+
